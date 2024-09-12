@@ -6,7 +6,7 @@ use std::{
 
 use directories::UserDirs;
 
-pub use events::{Channel, Event};
+pub use events::*;
 
 mod events;
 

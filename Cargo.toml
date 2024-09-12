@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Merlin Attila Fejzuli"]
 edition = "2021"
 repository = "https://github.com/fejzuli/elite-rs"
-license = "BSD-3-Clause"
 license-file = "LICENSE"
 
 [lib]
